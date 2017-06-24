@@ -1,0 +1,247 @@
+mr,ANALOGICAL COUNT
+"name, area, children-friendly",13
+"name, area, children-friendly, near",12
+"name, area, familyFriendly",30
+"name, area, familyFriendly, near",32
+"name, area, kidsFriendly",12
+"name, area, kidsFriendly, near",12
+"name, area, near",14
+"name, children-friendly, near",12
+"name, customer rating, area",93
+"name, customer rating, area, children-friendly",74
+"name, customer rating, area, children-friendly, near",72
+"name, customer rating, area, familyFriendly",91
+"name, customer rating, area, familyFriendly, near",87
+"name, customer rating, area, kidsFriendly",35
+"name, customer rating, area, kidsFriendly, near",34
+"name, customer rating, area, near",87
+"name, customer rating, children-friendly",69
+"name, customer rating, children-friendly, near",65
+"name, customer rating, familyFriendly",54
+"name, customer rating, familyFriendly, near",55
+"name, customer rating, kidsFriendly",35
+"name, customer rating, kidsFriendly, near",37
+"name, customer rating, near",69
+"name, eatType, area",16
+"name, eatType, area, children-friendly",13
+"name, eatType, area, children-friendly, near",13
+"name, eatType, area, familyFriendly",28
+"name, eatType, area, familyFriendly, near",33
+"name, eatType, area, kidsFriendly",13
+"name, eatType, area, kidsFriendly, near",12
+"name, eatType, area, near",15
+"name, eatType, children-friendly",13
+"name, eatType, children-friendly, near",11
+"name, eatType, customer rating",75
+"name, eatType, customer rating, area",87
+"name, eatType, customer rating, area, children-friendly",67
+"name, eatType, customer rating, area, children-friendly, near",66
+"name, eatType, customer rating, area, familyFriendly",89
+"name, eatType, customer rating, area, familyFriendly, near",86
+"name, eatType, customer rating, area, kidsFriendly",34
+"name, eatType, customer rating, area, kidsFriendly, near",34
+"name, eatType, customer rating, area, near",85
+"name, eatType, customer rating, children-friendly",69
+"name, eatType, customer rating, children-friendly, near",67
+"name, eatType, customer rating, familyFriendly",55
+"name, eatType, customer rating, familyFriendly, near",55
+"name, eatType, customer rating, kidsFriendly",35
+"name, eatType, customer rating, kidsFriendly, near",34
+"name, eatType, customer rating, near",71
+"name, eatType, familyFriendly",18
+"name, eatType, familyFriendly, near",22
+"name, eatType, food",74
+"name, eatType, food, area",108
+"name, eatType, food, area, children-friendly",83
+"name, eatType, food, area, children-friendly, near",82
+"name, eatType, food, area, familyFriendly",204
+"name, eatType, food, area, familyFriendly, near",207
+"name, eatType, food, area, kidsFriendly",66
+"name, eatType, food, area, kidsFriendly, near",81
+"name, eatType, food, area, near",109
+"name, eatType, food, children-friendly",79
+"name, eatType, food, children-friendly, near",80
+"name, eatType, food, customer rating",345
+"name, eatType, food, customer rating, area",462
+"name, eatType, food, customer rating, area, children-friendly",103
+"name, eatType, food, customer rating, area, children-friendly, near",106
+"name, eatType, food, customer rating, area, familyFriendly",523
+"name, eatType, food, customer rating, area, familyFriendly, near",537
+"name, eatType, food, customer rating, area, kidsFriendly",106
+"name, eatType, food, customer rating, area, kidsFriendly, near",115
+"name, eatType, food, customer rating, area, near",453
+"name, eatType, food, customer rating, children-friendly",103
+"name, eatType, food, customer rating, children-friendly, near",108
+"name, eatType, food, customer rating, familyFriendly",304
+"name, eatType, food, customer rating, familyFriendly, near",306
+"name, eatType, food, customer rating, kidsFriendly",113
+"name, eatType, food, customer rating, kidsFriendly, near",108
+"name, eatType, food, customer rating, near",306
+"name, eatType, food, familyFriendly",123
+"name, eatType, food, familyFriendly, near",128
+"name, eatType, food, kidsFriendly",82
+"name, eatType, food, kidsFriendly, near",78
+"name, eatType, food, near",74
+"name, eatType, food, priceRange",348
+"name, eatType, food, priceRange, area",449
+"name, eatType, food, priceRange, area, children-friendly",229
+"name, eatType, food, priceRange, area, children-friendly, near",221
+"name, eatType, food, priceRange, area, familyFriendly",244
+"name, eatType, food, priceRange, area, familyFriendly, near",246
+"name, eatType, food, priceRange, area, kidsFriendly",224
+"name, eatType, food, priceRange, area, kidsFriendly, near",231
+"name, eatType, food, priceRange, area, near",454
+"name, eatType, food, priceRange, children-friendly",153
+"name, eatType, food, priceRange, children-friendly, near",151
+"name, eatType, food, priceRange, customer rating",536
+"name, eatType, food, priceRange, customer rating, area",850
+"name, eatType, food, priceRange, customer rating, area, children-friendly",493
+"name, eatType, food, priceRange, customer rating, area, children-friendly, near",513
+"name, eatType, food, priceRange, customer rating, area, familyFriendly",538
+"name, eatType, food, priceRange, customer rating, area, familyFriendly, near",536
+"name, eatType, food, priceRange, customer rating, area, kidsFriendly",508
+"name, eatType, food, priceRange, customer rating, area, kidsFriendly, near",513
+"name, eatType, food, priceRange, customer rating, area, near",828
+"name, eatType, food, priceRange, customer rating, children-friendly",292
+"name, eatType, food, priceRange, customer rating, children-friendly, near",297
+"name, eatType, food, priceRange, customer rating, familyFriendly",312
+"name, eatType, food, priceRange, customer rating, familyFriendly, near",298
+"name, eatType, food, priceRange, customer rating, kidsFriendly",295
+"name, eatType, food, priceRange, customer rating, kidsFriendly, near",279
+"name, eatType, food, priceRange, customer rating, near",508
+"name, eatType, food, priceRange, familyFriendly",180
+"name, eatType, food, priceRange, familyFriendly, near",179
+"name, eatType, food, priceRange, kidsFriendly",156
+"name, eatType, food, priceRange, kidsFriendly, near",161
+"name, eatType, food, priceRange, near",341
+"name, eatType, kidsFriendly",9
+"name, eatType, kidsFriendly, near",11
+"name, eatType, near",10
+"name, eatType, priceRange",75
+"name, eatType, priceRange, area",87
+"name, eatType, priceRange, area, children-friendly",39
+"name, eatType, priceRange, area, children-friendly, near",42
+"name, eatType, priceRange, area, familyFriendly",42
+"name, eatType, priceRange, area, familyFriendly, near",40
+"name, eatType, priceRange, area, kidsFriendly",44
+"name, eatType, priceRange, area, kidsFriendly, near",41
+"name, eatType, priceRange, area, near",83
+"name, eatType, priceRange, children-friendly",27
+"name, eatType, priceRange, children-friendly, near",31
+"name, eatType, priceRange, customer rating",160
+"name, eatType, priceRange, customer rating, area",229
+"name, eatType, priceRange, customer rating, area, children-friendly",135
+"name, eatType, priceRange, customer rating, area, children-friendly, near",132
+"name, eatType, priceRange, customer rating, area, familyFriendly",90
+"name, eatType, priceRange, customer rating, area, familyFriendly, near",102
+"name, eatType, priceRange, customer rating, area, kidsFriendly",101
+"name, eatType, priceRange, customer rating, area, kidsFriendly, near",107
+"name, eatType, priceRange, customer rating, area, near",233
+"name, eatType, priceRange, customer rating, children-friendly",78
+"name, eatType, priceRange, customer rating, children-friendly, near",93
+"name, eatType, priceRange, customer rating, familyFriendly",57
+"name, eatType, priceRange, customer rating, familyFriendly, near",71
+"name, eatType, priceRange, customer rating, kidsFriendly",62
+"name, eatType, priceRange, customer rating, kidsFriendly, near",65
+"name, eatType, priceRange, customer rating, near",190
+"name, eatType, priceRange, familyFriendly",35
+"name, eatType, priceRange, familyFriendly, near",33
+"name, eatType, priceRange, kidsFriendly",35
+"name, eatType, priceRange, kidsFriendly, near",33
+"name, eatType, priceRange, near",70
+"name, familyFriendly, near",18
+"name, food, area",109
+"name, food, area, children-friendly",77
+"name, food, area, children-friendly, near",71
+"name, food, area, familyFriendly",211
+"name, food, area, familyFriendly, near",200
+"name, food, area, kidsFriendly",85
+"name, food, area, kidsFriendly, near",81
+"name, food, area, near",106
+"name, food, children-friendly",79
+"name, food, children-friendly, near",74
+"name, food, customer rating",350
+"name, food, customer rating, area",451
+"name, food, customer rating, area, children-friendly",119
+"name, food, customer rating, area, children-friendly, near",109
+"name, food, customer rating, area, familyFriendly",528
+"name, food, customer rating, area, familyFriendly, near",524
+"name, food, customer rating, area, kidsFriendly",107
+"name, food, customer rating, area, kidsFriendly, near",106
+"name, food, customer rating, area, near",453
+"name, food, customer rating, children-friendly",106
+"name, food, customer rating, children-friendly, near",104
+"name, food, customer rating, familyFriendly",299
+"name, food, customer rating, familyFriendly, near",144
+"name, food, customer rating, kidsFriendly",112
+"name, food, customer rating, kidsFriendly, near",109
+"name, food, customer rating, near",358
+"name, food, familyFriendly",132
+"name, food, familyFriendly, near",130
+"name, food, kidsFriendly",72
+"name, food, kidsFriendly, near",85
+"name, food, near",74
+"name, food, priceRange",345
+"name, food, priceRange, area",475
+"name, food, priceRange, area, children-friendly",219
+"name, food, priceRange, area, children-friendly, near",224
+"name, food, priceRange, area, familyFriendly",251
+"name, food, priceRange, area, familyFriendly, near",249
+"name, food, priceRange, area, kidsFriendly",236
+"name, food, priceRange, area, kidsFriendly, near",244
+"name, food, priceRange, area, near",477
+"name, food, priceRange, children-friendly",152
+"name, food, priceRange, children-friendly, near",146
+"name, food, priceRange, customer rating",510
+"name, food, priceRange, customer rating, area",848
+"name, food, priceRange, customer rating, area, children-friendly",496
+"name, food, priceRange, customer rating, area, children-friendly, near",522
+"name, food, priceRange, customer rating, area, familyFriendly",533
+"name, food, priceRange, customer rating, area, familyFriendly, near",531
+"name, food, priceRange, customer rating, area, kidsFriendly",522
+"name, food, priceRange, customer rating, area, kidsFriendly, near",509
+"name, food, priceRange, customer rating, area, near",867
+"name, food, priceRange, customer rating, children-friendly",279
+"name, food, priceRange, customer rating, children-friendly, near",283
+"name, food, priceRange, customer rating, familyFriendly",308
+"name, food, priceRange, customer rating, familyFriendly, near",308
+"name, food, priceRange, customer rating, kidsFriendly",292
+"name, food, priceRange, customer rating, kidsFriendly, near",292
+"name, food, priceRange, customer rating, near",523
+"name, food, priceRange, familyFriendly",181
+"name, food, priceRange, familyFriendly, near",182
+"name, food, priceRange, kidsFriendly",146
+"name, food, priceRange, kidsFriendly, near",163
+"name, food, priceRange, near",340
+"name, kidsFriendly, near",13
+"name, priceRange, area",88
+"name, priceRange, area, children-friendly",39
+"name, priceRange, area, children-friendly, near",39
+"name, priceRange, area, familyFriendly",45
+"name, priceRange, area, familyFriendly, near",39
+"name, priceRange, area, kidsFriendly",41
+"name, priceRange, area, kidsFriendly, near",40
+"name, priceRange, area, near",83
+"name, priceRange, children-friendly",26
+"name, priceRange, children-friendly, near",29
+"name, priceRange, customer rating",160
+"name, priceRange, customer rating, area",183
+"name, priceRange, customer rating, area, children-friendly",131
+"name, priceRange, customer rating, area, children-friendly, near",120
+"name, priceRange, customer rating, area, familyFriendly",109
+"name, priceRange, customer rating, area, familyFriendly, near",101
+"name, priceRange, customer rating, area, kidsFriendly",104
+"name, priceRange, customer rating, area, kidsFriendly, near",96
+"name, priceRange, customer rating, area, near",219
+"name, priceRange, customer rating, children-friendly",72
+"name, priceRange, customer rating, children-friendly, near",92
+"name, priceRange, customer rating, familyFriendly",68
+"name, priceRange, customer rating, familyFriendly, near",70
+"name, priceRange, customer rating, kidsFriendly",65
+"name, priceRange, customer rating, kidsFriendly, near",67
+"name, priceRange, customer rating, near",154
+"name, priceRange, familyFriendly",37
+"name, priceRange, familyFriendly, near",34
+"name, priceRange, kidsFriendly",34
+"name, priceRange, kidsFriendly, near",35
+"name, priceRange, near",70
